@@ -1,4 +1,4 @@
-# CARPRICE
+# Car Price Regression
 
 ## Description
 
